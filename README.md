@@ -98,15 +98,16 @@ plt.show()
 
 ---
 
-## TABULATION
-<img width="1280" height="975" src="https://github.com/user-attachments/assets/a3477eb1-cce0-4a9f-95d1-e7d490c59b14" />
-
----
 
 ## OUTPUT
 <img width="989" height="989" src="https://github.com/user-attachments/assets/c1ad1e7b-cc9c-49f7-9273-43d5624e8bd9" />
 
 ---
+## TABULATION
+<img width="1280" height="975" src="https://github.com/user-attachments/assets/a3477eb1-cce0-4a9f-95d1-e7d490c59b14" />
+
+---
+
 
 ## RESULT:
 Thus the DSB-SC modulation and demodulation were implemented using Python, and the output was verified successfully.
