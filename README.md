@@ -111,3 +111,4 @@ plt.show()
 
 ## RESULT:
 Thus the DSB-SC modulation and demodulation were implemented using Python, and the output was verified successfully.
+<img width="1080" height="631" alt="image" src="https://github.com/user-attachments/assets/306b866f-8600-4102-8b2e-805c7165be35" />
